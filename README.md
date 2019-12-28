@@ -17,9 +17,9 @@
   
   ### 2019
   - Women of Silicon Valley, SF, CA [link](https://twitter.com/WinTechSeries/status/1124013435912630272)
-  - ACT-W, Santa Clara, CA
-  - Techup for Women, NYC, NY
-  - JSConf, Tokyo, Japan 
+  - ACT-W, Santa Clara, CA [link](https://act-w.org/)
+  - Techup for Women, NYC, NY [link](https://techupforwomen.com/)
+  - JSConf, Tokyo, Japan [link](https://jsconf.jp/2019/)
   
   
   ### 2020
