@@ -1,6 +1,6 @@
 # [Nazanin Delam](https://www.linkedin.com/in/nazanindelam/) 👩🏻‍💻
 
-- For speaking inquieries: ndelam@acm.org 🌱
+- For speaking inquieries: nazanin1427@gmail.com 🌱
 - I am interested in speaking about the following topics:
   - JavaScript 
   - SoftSkills
