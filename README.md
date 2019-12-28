@@ -9,7 +9,8 @@
   - Career growth
   - Machine Learning
   
-  ## Conferences I have spoken at [highlights in pictures](https://www.instagram.com/stories/highlights/18071228101080789/)
+  ## Conferences I have spoken at 
+  #### _ [highlights in pictures](https://www.instagram.com/stories/highlights/18071228101080789/)
   
   ### 2019
   - Women of Silicon Valley, SF, CA [link](https://twitter.com/WinTechSeries/status/1124013435912630272)
