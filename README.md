@@ -1,4 +1,4 @@
-# Nazanin Delam
+# [Nazanin Delam](https://www.linkedin.com/in/nazanindelam/)
 
 - For speaking inquieries: ndelam@acm.org 
 - I am interested in speaking about the following topics:
@@ -20,3 +20,4 @@
   
   ### 2020
   - Women of Silicon Valley, SF, CA
+  
