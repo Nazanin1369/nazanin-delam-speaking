@@ -12,6 +12,9 @@
   ## Conferences I have spoken at 
   #### _ [highlights in pictures](https://www.instagram.com/stories/highlights/18071228101080789/)
   
+  ### 2017
+  - Einstein AI, Deep Learning & SuperIntelligence Summit, SF, CA [link](http://claridenglobal.com/conference/einsteinai2017/)
+  
   ### 2019
   - Women of Silicon Valley, SF, CA [link](https://twitter.com/WinTechSeries/status/1124013435912630272)
   - ACT-W, Santa Clara, CA
