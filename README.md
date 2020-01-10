@@ -23,5 +23,8 @@
   
   
   ### 2020
-  - Women of Silicon Valley, SF, CA
+  - Dev Color meetup Jan 2020 - Netflix [link](https://www.devcolor.org/)
+  - women in Tech Festival 2020, MV, CA [link](https://siliconvalleyforum.com/women-in-tech-festival/?gclid=CjwKCAiA3uDwBRBFEiwA1VsajKHNtCZa5vrIyKrGZaTNJTzGzbKYewLxSObEe67N0rt1imw7_VMxmxoCdzAQAvD_BwE)
+  - Women of Silicon Valley, SF, CA [link](https://www.womenofsiliconvalley.com/)
+  
   
