@@ -21,7 +21,7 @@
   - Techup for Women, NYC, NY [link](https://techupforwomen.com/)
   - JSConf, Tokyo, Japan [link](https://jsconf.jp/2019/)
   
-  
+  ## This year:
   ### 2020
   - Dev Color meetup Jan 2020 - Netflix [link](https://www.devcolor.org/)
   - IranWIC mentoring session - Online - May 2020
