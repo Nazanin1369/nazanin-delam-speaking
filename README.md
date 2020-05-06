@@ -24,7 +24,11 @@
   
   ### 2020
   - Dev Color meetup Jan 2020 - Netflix [link](https://www.devcolor.org/)
-  - Women in Tech Festival May 2020, MV, CA [link](https://siliconvalleyforum.com/women-in-tech-festival/?gclid=CjwKCAiA3uDwBRBFEiwA1VsajKHNtCZa5vrIyKrGZaTNJTzGzbKYewLxSObEe67N0rt1imw7_VMxmxoCdzAQAvD_BwE)
-  - Women of Silicon Valley May 2020, SF, CA [link](https://www.womenofsiliconvalley.com/)
+  - IranWIC mentoring session - Online - May 2020
+  - Women of Silicon Valley Webinar Sessions - June 2020
+  - Women in Tech Festival October 2020, MV, CA [link](https://siliconvalleyforum.com/women-in-tech-festival/?gclid=CjwKCAiA3uDwBRBFEiwA1VsajKHNtCZa5vrIyKrGZaTNJTzGzbKYewLxSObEe67N0rt1imw7_VMxmxoCdzAQAvD_BwE)
+  - Women of Silicon Valley October 2020, SF, CA [link](https://www.womenofsiliconvalley.com/)
+  - ArmadaJS - TBD
+  - Elm Japan - TBD
   
   
