@@ -36,6 +36,6 @@
 | October 2020 | [Women in Tech Festival](https://siliconvalleyforum.com/women-in-tech-festival/?gclid=CjwKCAiA3uDwBRBFEiwA1VsajKHNtCZa5vrIyKrGZaTNJTzGzbKYewLxSObEe67N0rt1imw7_VMxmxoCdzAQAvD_BwE), Online | How to pivot your career perfectly | Career Growth |
 | October 2020 |  [Women of Silicon Valley](https://www.womenofsiliconvalley.com/) | Continuous learning: What it means and what employers expect | Career Growth |
 | TBD | ArmadaJS | A11y best practices | Front-end development, Accessibility |
-| TBD | Elm Japan | Build a memory game with Elm | Front-end development |
+| TBD | Elm Japan | Sharpen your memory with Elm | Front-end development |
 
   
