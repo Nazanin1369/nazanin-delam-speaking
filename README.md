@@ -33,7 +33,7 @@
 | May 24th, 2020 | [Hello Meets](https://hub.hellomeets.com/events), Online | Effective candor feedback in the tech industry | Career Growth|
 | July 2020 | [Interview with DeSpeak](https://youtu.be/3ZzwHikELvQ) | What it is like to be a UI Engineer? | Career Growth |
 | July 2020 | [Women of Silicon Valley Webinar Sessions](https://www.women-in-technology.com/webinars) | [How to Pivot Your Career during the pandemic | Career Growth](https://ascend.women-in-technology.com/networks/events/37865) |
-| July 28-29 2020| [API Days NYC](https://www.apidays.co/newyork), Online| GraphQL 101 | Front-end development, NodeJS |
+| July 28-29 2020| [API Days NYC](https://www.apidays.co/newyork), Online| Gatsby & GraphQL | Front-end development, NodeJS |
 | October 2020 | [Women in Tech Festival](https://siliconvalleyforum.com/women-in-tech-festival/?gclid=CjwKCAiA3uDwBRBFEiwA1VsajKHNtCZa5vrIyKrGZaTNJTzGzbKYewLxSObEe67N0rt1imw7_VMxmxoCdzAQAvD_BwE), Online | How to pivot your career perfectly | Career Growth |
 | October 2020 |  [Women of Silicon Valley](https://www.womenofsiliconvalley.com/) | Continuous learning: What it means and what employers expect | Career Growth |
 | TBD | ArmadaJS | A11y best practices | Front-end development, Accessibility |
